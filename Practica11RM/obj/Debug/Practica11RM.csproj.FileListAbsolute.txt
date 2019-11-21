@@ -1,0 +1,7 @@
+C:\Users\Reynaldo\source\repos\Practica11RM\Practica11RM\obj\Debug\Practica11RM.csprojAssemblyReference.cache
+C:\Users\Reynaldo\source\repos\Practica11RM\Practica11RM\obj\Debug\Practica11RM.csproj.CoreCompileInputs.cache
+C:\Users\Reynaldo\source\repos\Practica11RM\Practica11RM\bin\Debug\Practica11RM.exe.config
+C:\Users\Reynaldo\source\repos\Practica11RM\Practica11RM\bin\Debug\Practica11RM.exe
+C:\Users\Reynaldo\source\repos\Practica11RM\Practica11RM\bin\Debug\Practica11RM.pdb
+C:\Users\Reynaldo\source\repos\Practica11RM\Practica11RM\obj\Debug\Practica11RM.exe
+C:\Users\Reynaldo\source\repos\Practica11RM\Practica11RM\obj\Debug\Practica11RM.pdb
